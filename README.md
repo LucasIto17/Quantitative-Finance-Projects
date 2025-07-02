@@ -10,7 +10,7 @@ This project performs time series forecasting on Apple Inc. (AAPL) stock prices 
 
 * **Dataset:** Historical daily stock prices for Apple Inc.
 * **File:** `AAPL.csv` (downloaded from Yahoo Finance)
-* **Period:** January 1, 2010 to present1
+* **Period:** January 1, 2010 to present
 
 ## Preprocessing Steps
 
